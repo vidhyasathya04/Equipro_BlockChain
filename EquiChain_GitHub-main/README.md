@@ -7,21 +7,7 @@
 
 *Empowering transparent, secure, and efficient benefit distribution through cutting-edge technology*
 
-</div>
 
----
-
-## 🎥 Demo Video
-
-<div align="center">
-
-**Watch our comprehensive demo to see EquiChain in action!**
-
-[![Demo Video Thumbnail](https://img.shields.io/badge/🎬-Watch_Full_Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1gEFAl9BvDBSo0df8nMobA0yazXbRtpCR/view?usp=drive_link)
-
-*Experience the future of welfare distribution with AI-powered verification and blockchain transparency*
-
-</div>
 
 ## ✨ Features
 
