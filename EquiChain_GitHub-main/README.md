@@ -1,15 +1,5 @@
 # 🔗 EquiChain - Secure & Transparent Welfare Benefits Distribution
 
-<div align="center">
-
-[![Demo Video](https://img.shields.io/badge/🎥-Watch_Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1gEFAl9BvDBSo0df8nMobA0yazXbRtpCR/view?usp=drive_link)
-[![React](https://img.shields.io/badge/React-18.3.1-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-
-</div>
-
----
 
 <div align="center">
 
